@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The purpose of this project is to classify images of cassava leafs into one of 5 categories (4 diseases or healthy leaf).
+The purpose of this project is to classify images of cassava leaves into one of 5 categories (4 diseases or healthy leaf).
 To accomplish this the following steps have been executed:
 
 1. Explanatory Data Analysis
